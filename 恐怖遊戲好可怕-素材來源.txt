@@ -15,3 +15,4 @@ RPG Maker 2003 Handbook
 # 字型
 
 細明體
+思源宋體
