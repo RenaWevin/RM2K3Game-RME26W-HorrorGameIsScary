@@ -11,6 +11,8 @@ RPG Maker 2003 Handbook
 RTP 2000
 RTP 2003
 RPG Maker 2003 Handbook
+First Seed Material
+Teddy-plaza
 
 # 字型
 
