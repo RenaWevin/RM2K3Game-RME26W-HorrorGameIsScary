@@ -9,6 +9,11 @@ RTP 2003
 RPG Maker 2003 Handbook
 效果音工房umipla
 
+# 配音
+
+四国めたん (VOICEVOX)
+初音ミク V4X
+
 # 圖像
 
 魚丸◎蕾娜自製
